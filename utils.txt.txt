@@ -1,1 +1,1 @@
-utility functions for version 0.2
+utility functions for version 0.3
